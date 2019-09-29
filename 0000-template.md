@@ -1,4 +1,4 @@
-# Proposal name
+# Idea name
 
 * Proposal: [SE-NNNN](NNNN-filename.md)
 * Authors: [Author 1](https://github.com/username), [Author 2](https://github.com/username)
