@@ -1,9 +1,5 @@
 # Idea name
 
-* Proposal: [SE-NNNN](NNNN-filename.md)
-* Authors: [Author 1](https://github.com/username), [Author 2](https://github.com/username)
-* Status: **Scheduled for Review**
-
 ## Introduction
 
 A short description of what the feature is. Try to keep it to a
